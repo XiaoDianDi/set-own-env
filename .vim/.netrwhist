@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/qiaoyongchang/code/MP/android/kernel'
+let g:netrw_dirhist_2='/home/qiaoyongchang/code/MP/android'
+let g:netrw_dirhist_3='/home/qiaoyongchang/.jack-server'
+let g:netrw_dirhist_4='/home/qiaoyongchang/code/ZY55C73-2/ZY55C73_SEC/kernel/Documentation/devicetree/bindings/interrupt-controller'
+let g:netrw_dirhist_5='/home/qiaoyongchang/code/ZY55C73-2/ZY55C73_SEC/u-boot15/board/spreadtrum/ZY55C73'
+let g:netrw_dirhist_6='/home/qiaoyongchang/code/ZY55C73-2/ZY55C73_SEC/kernel/arch/arm64/boot/dts'
